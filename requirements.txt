@@ -1,3 +1,13 @@
+###
+# What is a requirements.txt?
+# 
+# A requirements file, usually named "requirements.txt" will contain the list of any required libraries and packages you'll need to run the project.
+# It can also contain the versions these requirements have to be to make sure that they all function together smoothly.
+# Before running this project, if you haven't installed the requirements, you can open up your terminal run `pip install -r requirements.txt` to make sure you're ready.
+# Note: to run the command above, make sure your terminal is in the correct location, which is the root of this project repository.
+###
+
+
 #### Requirements With Versions ####
 jupyter>=1.0.0 # For Running Jupyter Notebooks: https://jupyter.org/
 okgrade>=0.4.3 # Auto-grading

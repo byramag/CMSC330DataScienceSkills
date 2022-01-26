@@ -1,3 +1,13 @@
+###
+# What is a .gitignore?
+# 
+# The .gitignore file in version control describes the file names and folders that shouldn't be tracked in the repository. 
+# This might be because it's irrelevant or because the file contains personal information.
+# A .gitignore can also be useful in projects where you want to keep some files on you local machine, but not share with the world
+# E.g. the answer keys to your labs!
+###
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
