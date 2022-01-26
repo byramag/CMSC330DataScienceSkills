@@ -1,0 +1,4 @@
+#### Requirements With Versions ####
+jupyter>=1.0.0 # For Running Jupyter Notebooks: https://jupyter.org/
+okgrade>=0.4.3 # Auto-grading
+datascience>=0.17.0 # Package that abstracts numpy into table and query operations: http://data8.org/datascience/
